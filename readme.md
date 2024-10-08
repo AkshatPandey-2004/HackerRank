@@ -1,2 +1,1 @@
-hviuvuhv#HackerRank  Codes
-s
+HackerRank
