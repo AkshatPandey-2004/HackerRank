@@ -1,2 +1,2 @@
-HackerRank Codes 
+sHackerRank Codes 
 s
